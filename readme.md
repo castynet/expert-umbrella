@@ -10,6 +10,10 @@
 
 > [Challenge - Codility](https://app.codility.com/programmers/challenges/great_code_off2021/) :game_die: [Solution](https://github.com/castynet/expert-umbrella/blob/main/Codility%20Cakes.js) :game_die: [Certificate](https://app.codility.com/cert/view/certNZS7F9-56BAFMKAS3U2X9SK/)
 
+### National Coding Week
+
+> [Challenge - Codility](https://app.codility.com/programmers/custom_challenge/national_coding_week_2021/) :game_die: [Solution](/) :game_die: [Certificate](https://app.codility.com/cert/view/certUDGS7H-KBEJV2E6F4KRCAGC/)
+
 ## Interesting Stuff :robot:
 
 ## Unsolved Challenges :skull_and_crossbones:
