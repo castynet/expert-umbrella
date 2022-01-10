@@ -12,8 +12,4 @@
 
 ### National Coding Week
 
-> [Challenge - Codility](https://app.codility.com/programmers/custom_challenge/national_coding_week_2021/) :game_die: [Solution](/) :game_die: [Certificate](https://app.codility.com/cert/view/certUDGS7H-KBEJV2E6F4KRCAGC/)
-
-## Interesting Stuff :robot:
-
-## Unsolved Challenges :skull_and_crossbones:
+> [Challenge - Codility](https://app.codility.com/programmers/custom_challenge/national_coding_week_2021/) :game_die: [Solution](https://github.com/castynet/expert-umbrella/blob/main/National%20Coding%20Week/code.js) :game_die: [Certificate](https://app.codility.com/cert/view/certUDGS7H-KBEJV2E6F4KRCAGC/)
